@@ -1,4 +1,4 @@
-<div align="center" id="top" style="border-radius: 9px;"> 
+<div align="center" id="top" style="border-radius: 25% 10%;"> 
 
   ![Image text](https://github.com/mauriciosierrac/faketube/blob/main/src/logoMao.jpg)
 &#xa0;
