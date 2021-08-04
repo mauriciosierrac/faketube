@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img href="https://github.com/mauriciosierrac/faketube/blob/main/src/logoMao.jpg" alt="Faketube" />
+  ![Image text](https://github.com/mauriciosierrac/faketube/blob/main/src/logoMao.jpg)
 
 &#xa0;
 
