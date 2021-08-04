@@ -12,11 +12,11 @@
 <p align="center">
  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mauriciosierrac/faketube?color=56BEB8">
 
-<img alt="Github language count" src="https://img.shields.io/github/languages/count/{{mauriciosierrac}}/faketube?color=56BEB8">
+<img alt="Github language count" src="https://img.shields.io/github/languages/count/mauriciosierrac/faketube?color=56BEB8">
 
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/{{mauriciosierrac}}/faketube?color=56BEB8">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/mauriciosierrac/faketube?color=56BEB8">
 
-<img alt="License" src="https://img.shields.io/github/license/{{mauriciosierrac}}/faketube?color=56BEB8">
+<img alt="License" src="https://img.shields.io/github/license/mauriciosierrac/faketube?color=56BEB8">
 
 <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/faketube?color=56BEB8" /> -->
 
@@ -48,7 +48,7 @@
 
 ## 🎯 About
 
-Describe your project
+This project was made to practice Javascript and React, it emulates the Famous video browser Youtube, using your API
 
 ## ✨ Features
 
