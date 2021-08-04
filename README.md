@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Faketube" />
+  <img href="https://github.com/mauriciosierrac/faketube/blob/main/src/logoMao.jpg" alt="Faketube" />
 
 &#xa0;
 
@@ -7,7 +7,7 @@
 
 </div>
 
-<h1 align="center">Faketube</h1>
+<h1 align="center">Mao tube</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/faketube?color=56BEB8">
