@@ -1,5 +1,5 @@
+  ->![Image text](https://github.com/mauriciosierrac/faketube/blob/main/src/logoMao.jpg)<-
 <div align="center" id="top"> 
-  ![Image text](https://github.com/mauriciosierrac/faketube/blob/main/src/logoMao.jpg)
 
 &#xa0;
 
