@@ -7,9 +7,11 @@ import WatchArea from './WatchArea';
 const App = () => {
     return (
         <div>
-            <header>
-                <a href="/">FakeTube</a>
-            </header>
+            {/* <header>
+                <a href="/">
+                </a>
+            </header> */}
+            <img src="logoMao.jpg" alt="Logo"/>
             <Router>
                 <SearchArea path="/" />
                 <WatchArea path="/watch/:id" />

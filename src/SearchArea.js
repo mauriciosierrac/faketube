@@ -10,7 +10,7 @@ const SearchArea = () => {
         axios .get(`${AppConstants.SEARCH_URL}&q=${keyword}`)
         .then((res) => {
             const {items}= res.data
-            console.log(items)
+            //console.log(items)
             setVideos(items)
         })
         .catch((err)=>{
