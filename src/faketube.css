@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  display: flex;
+  display: flex ;
   align-content: center;
   justify-content: space-between;
   margin: 0 auto;
@@ -25,11 +25,20 @@ header {
 }
 
 header a {
-  color: #ad343e;
+  color: #131010;
   font-size: 1.5rem;
   text-decoration: none;
   font-weight: bold;
   display: block;
+  font-size: 20px;
+  width: 100%;
+}
+
+header img {
+  width: 300px;
+  height: 100px;
+  border-radius: 10px;
+  margin-right: 20px;
 }
 
 .search-area {
@@ -40,7 +49,7 @@ header a {
 }
 
 .search-area form {
-  background-color: #e6c521;
+  background-color: #eeeeee;
   width: 23rem;
   margin: 0 auto;
   padding: 2rem 1rem 1rem 1rem;
@@ -65,7 +74,7 @@ header a {
   padding: 5px 25px;
   color: white;
   font-size: 1.1rem;
-  background-color: #ad343e;
+  background-color: #ec1829f5;
   border: #111 1px solid;
   border-radius: 5px;
   cursor: pointer;
