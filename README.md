@@ -1,6 +1,6 @@
 <div align="center" id="top" style="border-radius: 25% 10%;"> 
 
-  ![Image text](https://github.com/mauriciosierrac/faketube/blob/main/src/logoMao.jpg)
+  ![Image text](https://github.com/mauriciosierrac/faketube/blob/main/src/images/logoMao.jpg)
 &#xa0;
 
 <!-- <a href="https://faketube.netlify.app">Demo</a> -->
